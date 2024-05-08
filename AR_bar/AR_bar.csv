@@ -1,0 +1,22 @@
+short,prevalence,class,drug
+T,0.898969072,Trimethoprim,Trimethoprim
+TE,0.954639175,Tetracyclines,Tetracycline
+SXT,0.898969072,Sulfonamides,Sulfonamide
+LVX,0.674226804,Quinolones,Levofloxacin
+MXF,0.686597938,Quinolones,Moxifloxacin
+CIP,0.709278351,Quinolones,Ciprofloxacin
+C,0.851546392,Chloramphenicol,Chloramphenicol
+IPM,0.008247423,Beta-lactams,Imipenem
+MEM,0.008247423,Beta-lactams,Meropenem
+TZP,0.008247423,Beta-lactams,Tazobactam piperacillin
+AMC,0.113402062,Beta-lactams,Amoxicillin clavulanic acid
+CAZ,0.134020619,Beta-lactams,Ceftazidime
+ATM,0.253608247,Beta-lactams,Aztreonam
+SAM,0.342268041,Beta-lactams,Sulbactam ampicillin
+FEP,0.44742268,Beta-lactams,Cefepime
+CTX,0.517525773,Beta-lactams,Cefotaxime
+CZ,0.579381443,Beta-lactams,Cefazolin
+PIP,0.901030928,Beta-lactams,Piperacillin
+AM,0.954639175,Beta-lactams,Ampicillin
+AN,0.154639175,Aminoglycosides,Amikacin
+GM,0.698969072,Aminoglycosides,Gentamicin
